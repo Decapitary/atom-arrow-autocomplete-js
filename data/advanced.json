@@ -1,0 +1,7 @@
+[
+	{
+		"displayText": "promise",
+		"snippet": "new Promise((resolve, reject) => {${1:}})",
+		"description": "Arrow Function"
+	}
+]

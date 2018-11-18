@@ -1,0 +1,24 @@
+{
+  "name": "autocomplete-boilerplate",
+  "main": "./lib/main",
+  "version": "0.2.0",
+  "description": "Atom package to use arrow functions easier",
+  "keywords": [
+    "autocomplete",
+    "provider",
+    "boilerplate"
+  ],
+  "repository": "https://github.com/Quichei/atom-arrow-autocomplete-js",
+  "author": "Farhad Khademi <Quicchei@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
