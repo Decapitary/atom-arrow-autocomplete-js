@@ -1,5 +1,5 @@
 {
-  "name": "autocomplete-boilerplate",
+  "name": "atom-arrow-autocomplete-js",
   "main": "./lib/main",
   "version": "0.2.0",
   "description": "Atom package to use arrow functions easier",
