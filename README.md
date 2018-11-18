@@ -1,2 +1,12 @@
 # atom-arrow-autocomplete-js
-Atom Package to use arrow function
+Atom package to generate arrow function syntax
+
+Current generators:
+    arrow function
+    Promise
+    then
+    catch
+    map
+    filter
+    setTimeout
+    setInterval
