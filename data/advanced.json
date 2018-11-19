@@ -49,13 +49,13 @@
 	},
 	{
 		"displayText": "setTimeout",
-		"snippet": "setTimeout(() => {$1}, ${2:miliseconds});",
+		"snippet": "setTimeout(${2:() => \\{$3\\}}, ${1:miliseconds});",
 		"description": "setTimeout(() => {???}, miliseconds);",
 		"label": "setTimeout"
 	},
 	{
 		"displayText": "setInterval",
-		"snippet": "setInterval(() => {$1}, ${2:miliseconds});",
+		"snippet": "setInterval(${2:() => \\{$3\\}}, ${1:miliseconds});",
 		"description": "setInterval(() => {???}, miliseconds);",
 		"label": "setInterval"
 	}
