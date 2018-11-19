@@ -5,8 +5,18 @@
   "description": "Atom package to use arrow functions easier",
   "keywords": [
     "autocomplete",
-    "provider",
-    "boilerplate"
+    "js",
+    "arrow",
+    "function",
+    "arrow function",
+    "typescript",
+    "snippet",
+    "es7",
+    "javascript",
+    "react",
+    "reactjs",
+    "angular",
+    "vue"
   ],
   "repository": "https://github.com/Quichei/atom-arrow-autocomplete-js",
   "author": "Farhad Khademi <Quicchei@gmail.com>",
