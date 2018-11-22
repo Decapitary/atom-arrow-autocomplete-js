@@ -1,7 +1,7 @@
 {
   "name": "atom-arrow-autocomplete-js",
   "main": "./lib/main",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Atom package to use arrow functions easier",
   "keywords": [
     "autocomplete",
