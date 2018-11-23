@@ -19,7 +19,7 @@
 	},
 	{
 		"displayText": "function",
-		"snippet": "let ${1:functionName} = (${2:params}) => {${3:}});",
+		"snippet": "let ${1:functionName} = (${2:params}) => {${3:}};",
 		"description": "Arrow Function Template",
 		"label": "let foo = () => {???}"
 	},
