@@ -48,6 +48,12 @@
 		"label": "extended filter"
 	},
 	{
+		"displayText": "reduce",
+		"snippet": "reduce((a, b) => ${1:\\{$2\\}}, ${3:[]})${4:;}",
+		"description": "reduce((a, b) => ??? , []);",
+		"label": "Array reduce"
+	},
+	{
 		"displayText": "setTimeout",
 		"snippet": "setTimeout(${2:() => \\{$3\\}}, ${1:miliseconds});",
 		"description": "setTimeout(() => {???}, miliseconds);",
@@ -58,5 +64,41 @@
 		"snippet": "setInterval(${2:() => \\{$3\\}}, ${1:miliseconds});",
 		"description": "setInterval(() => {???}, miliseconds);",
 		"label": "setInterval"
+	},
+	{
+		"displayText": "find",
+		"snippet": "find({${1:foo}: ${2:bar}})$3",
+		"description": "Model.find({foo: bar})",
+		"label": "Mongoose Find"
+	},
+	{
+		"displayText": "findOne",
+		"snippet": "findOne({${1:foo}: ${2:bar}})$3",
+		"description": "Model.findOne({foo: bar})",
+		"label": "Mongoose Find One"
+	},
+	{
+		"displayText": "save",
+		"snippet": "save((err${1:, doc}) => {$2})",
+		"description": "Model.save((err, doc) => {???})",
+		"label": "Mongoose Save"
+	},
+	{
+		"displayText": "exec",
+		"snippet": "exec((err, ${1:doc}) => {$2});",
+		"description": "exec((err, doc) => {???})",
+		"label": "Mongoose exec"
+	},
+	{
+		"displayText": "limit",
+		"snippet": "limit($1)$2",
+		"description": "limit(n)",
+		"label": "Mongoose limit"
+	},
+	{
+		"displayText": "select",
+		"snippet": "select($1)$2",
+		"description": "select(paths)",
+		"label": "Mongoose select"
 	}
 ]

@@ -16,7 +16,9 @@
     "react",
     "reactjs",
     "angular",
-    "vue"
+    "vue",
+    "mongoose",
+    "mongodb"
   ],
   "repository": "https://github.com/Quichei/atom-arrow-autocomplete-js",
   "author": "Farhad Khademi <Quicchei@gmail.com>",

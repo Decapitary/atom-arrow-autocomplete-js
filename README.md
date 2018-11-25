@@ -4,6 +4,7 @@
 
 <h3>Current generators:</h3>
 <ul>
+    JS:
     <li>arrow function</li>
     <li>Promise</li>
     <li>then</li>
@@ -13,5 +14,12 @@
     <li>setTimeout</li>
     <li>setInterval</li>
 </ul>
-
+<ul>
+    Mongoose
+    <li>find(without callback)</li>
+    <li>findOne(without callback)</li>
+    <li>select</li>
+    <li>limit</li>
+    <li>exec</li>
+</ul>
 <h4>TODO: </h4>
